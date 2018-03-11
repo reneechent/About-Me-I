@@ -6,9 +6,9 @@
 + Mobile: 0988-352-989
 * * *
 ### 專業技能
-1.	使用Microsoft Visuall Studio(C#、VB)、Node.js 開發
-2.	MySQL、MS SQL Server、Oracle、MongoDB 維護與操作
-3.	RESTful API 開發
+1.	使用Microsoft Visuall Studio(C#、VB) 進行專案開發
+2.	操作及維護資料庫: MySQL、MSSQL Server、Oracle、MongoDB
+3.	RESTful API 開發(Node.js、C#)
 * * *
 ### 工作經驗
 + 2015.09~2018.03 捷格科技股份有限公司/ 程式設計師
