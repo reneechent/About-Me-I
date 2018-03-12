@@ -9,6 +9,7 @@
 1.	使用Microsoft Visuall Studio(C#、VB) 進行專案開發
 2.	操作及維護資料庫: MySQL、MSSQL Server、Oracle、MongoDB
 3.	RESTful API 開發(Node.js、C#)
+4.  針對不同專案類型規劃DB Schhema
 * * *
 ### 工作經驗
 + 2015.09~2018.03 捷格科技股份有限公司/ 程式設計師
